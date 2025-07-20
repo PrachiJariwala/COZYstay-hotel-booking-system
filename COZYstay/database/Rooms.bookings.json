@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "66d08fb2cf1cbf678f42bc91"
+  },
+  "room": "SPOT ON 000000 Hotel Shiva Sai Lodge Near Regimental Bazaar,Shivagi Nagar,Hydrabad",
+  "roomId": "66b9d835f5e9d4654e9ef2f3",
+  "userId": "66c19483ad833e8fe8355448",
+  "fromDate": "16-08-2024",
+  "toDate": "17-08-2024",
+  "totalAmount": 3000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-08-29T15:11:46.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T10:56:58.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d194a5c312782b6287986f"
+  },
+  "room": "SPOT ON Hotel Shiva Sai Lodge Near Regimental Bazaar,Shivagi Nagar,Hydrabad",
+  "roomId": "66b85be251ab04b36af170fc",
+  "userId": "66c19483ad833e8fe8355448",
+  "fromDate": "29-08-2024",
+  "toDate": "31-08-2024",
+  "totalAmount": 4500,
+  "totalDays": 3,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-08-30T09:45:09.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T10:47:32.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d2e957fc4c2f03cabcfc43"
+  },
+  "room": "OYO Flagship 75243 Metro International",
+  "roomId": "66b85db351ab04b36af170ff",
+  "userId": "66c1949dad833e8fe835544a",
+  "fromDate": "09-09-2024",
+  "toDate": "11-09-2024",
+  "totalAmount": 6000,
+  "totalDays": 3,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-08-31T09:58:47.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T09:58:47.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d2f77ca83d617955886868"
+  },
+  "room": "OYO Flagship 75243 Metro International",
+  "roomId": "66b85db351ab04b36af170ff",
+  "userId": "66c19483ad833e8fe8355448",
+  "fromDate": "15-09-2024",
+  "toDate": "16-09-2024",
+  "totalAmount": 4000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-08-31T10:59:08.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T10:59:18.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d2f7a1a83d617955886878"
+  },
+  "room": "Ocean Breeze Hotel",
+  "roomId": "66d1a348eed107fe9a16c0f2",
+  "userId": "66c19483ad833e8fe8355448",
+  "fromDate": "12-08-2024",
+  "toDate": "13-08-2024",
+  "totalAmount": 4800,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-08-31T10:59:46.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T14:58:00.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d6d53996687817414c89bd"
+  },
+  "room": "111SPOT ON 37669 Hotel Shiva Sai Lodge Near Regimental Bazaar,Shivagi Nagar,Hydrabad",
+  "roomId": "66b85cfa51ab04b36af170fd",
+  "userId": "66c07bcce7c4c5f74f30c333",
+  "fromDate": "08-09-2024",
+  "toDate": "10-09-2024",
+  "totalAmount": 4500,
+  "totalDays": 3,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-03T09:22:01.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T09:22:01.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d6d56f96687817414c89cf"
+  },
+  "room": "Ocean Breeze Hotel",
+  "roomId": "66d1a348eed107fe9a16c0f2",
+  "userId": "66c07bcce7c4c5f74f30c333",
+  "fromDate": "08-09-2024",
+  "toDate": "10-09-2024",
+  "totalAmount": 7200,
+  "totalDays": 3,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-09-03T09:22:55.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T09:23:07.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8232d654ecd79f855f8fb"
+  },
+  "room": "OYO Flagship 75243 Metro International",
+  "roomId": "66b85db351ab04b36af170ff",
+  "userId": "66c07bcce7c4c5f74f30c333",
+  "fromDate": "20-10-2024",
+  "toDate": "21-10-2024",
+  "totalAmount": 4000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-04T09:06:53.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T09:06:53.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d9767232b2188284154f7d"
+  },
+  "room": "Ocean Breeze Hotel",
+  "roomId": "66d1a348eed107fe9a16c0f2",
+  "userId": "66c19407ad833e8fe8355446",
+  "fromDate": "26-09-2024",
+  "toDate": "27-09-2024",
+  "totalAmount": 4800,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-09-05T09:14:26.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T09:14:43.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d976b932b2188284154f8f"
+  },
+  "room": "The Grand Palace Hotel",
+  "roomId": "66d833bbb82ddc31427f5f24",
+  "userId": "66c19407ad833e8fe8355446",
+  "fromDate": "09-09-2024",
+  "toDate": "10-09-2024",
+  "totalAmount": 5000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-05T09:15:37.121Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T09:15:37.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d978d432b2188284154fb5"
+  },
+  "room": "Comfort Inn Suites",
+  "roomId": "66d833bbb82ddc31427f5f25",
+  "userId": "66d9789632b2188284154faa",
+  "fromDate": "21-10-2024",
+  "toDate": "22-10-2024",
+  "totalAmount": 3200,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-05T09:24:36.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T09:24:36.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dae6b2708eabd55a66cf1f"
+  },
+  "room": "Comfort Inn Suites",
+  "roomId": "66d833bbb82ddc31427f5f25",
+  "userId": "66c07bcce7c4c5f74f30c333",
+  "fromDate": "25-09-2024",
+  "toDate": "26-09-2024",
+  "totalAmount": 3200,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-06T11:25:39.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-06T11:25:39.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dae82d708eabd55a66cf29"
+  },
+  "room": "City Central Hotel",
+  "roomId": "66d833bbb82ddc31427f5f2b",
+  "userId": "66c07bcce7c4c5f74f30c333",
+  "fromDate": "27-10-2024",
+  "toDate": "28-10-2024",
+  "totalAmount": 4000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-06T11:31:57.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-06T11:31:57.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29d97571150e51662f110"
+  },
+  "room": "SPOT ON Hotel Shiva Sai Lodge Near Regimental Bazaar,Shivagi Nagar,Hydrabad",
+  "roomId": "66b85be251ab04b36af170fc",
+  "userId": "66e29c0f571150e51662f0fe",
+  "fromDate": "17-09-2024",
+  "toDate": "18-09-2024",
+  "totalAmount": 3000,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "Booked",
+  "createdAt": {
+    "$date": "2024-09-12T07:51:51.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T07:51:51.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e31d06967b1b73d152c18a"
+  },
+  "room": "taj hotel",
+  "roomId": "66b85d6051ab04b36af170fe",
+  "userId": "66e29c0f571150e51662f0fe",
+  "fromDate": "20-10-2024",
+  "toDate": "21-10-2024",
+  "totalAmount": 240,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-09-12T16:55:34.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T16:55:45.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e680f8b7ebb6a3f69b5f5a"
+  },
+  "room": "Greenwood Resort",
+  "roomId": "66d833bbb82ddc31427f5f27",
+  "userId": "66e67fddb7ebb6a3f69b5f44",
+  "fromDate": "24-09-2024",
+  "toDate": "25-09-2024",
+  "totalAmount": 5600,
+  "totalDays": 2,
+  "transactionId": "1234",
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2024-09-15T06:38:48.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-15T06:40:28.589Z"
+  },
+  "__v": 0
+}]

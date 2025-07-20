@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "66c07bcce7c4c5f74f30c333"
+  },
+  "name": "prachi",
+  "email": "prachi@gmail.com",
+  "password": "prachu",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c19407ad833e8fe8355446"
+  },
+  "name": "harsh",
+  "email": "harsh@gmail.com",
+  "password": "harsh123",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c19483ad833e8fe8355448"
+  },
+  "name": "ayushi",
+  "email": "ayushi@gmail.com",
+  "password": "ayuu14",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c1949dad833e8fe835544a"
+  },
+  "name": "pinko",
+  "email": "pink@gmail.com",
+  "password": "pink11",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cad81fd77b0920f65eb555"
+  },
+  "name": "Nirav",
+  "email": "nirav29@gmail.com",
+  "password": "nirav29",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d82385654ecd79f855f90b"
+  },
+  "name": "Neha",
+  "email": "neha@gmail.com",
+  "password": "neha26",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d82701654ecd79f855f91a"
+  },
+  "name": "Vaishnavi",
+  "email": "vaishnavi@gmail.com",
+  "password": "vaishu10",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d828a2654ecd79f855f932"
+  },
+  "name": "Karishma",
+  "email": "karishma@gmail.com",
+  "password": "karishma29",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d9789632b2188284154faa"
+  },
+  "name": "Udit Khan",
+  "email": "udit@gmail.com",
+  "password": "udit0",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29c0f571150e51662f0fe"
+  },
+  "name": "Vatsal",
+  "email": "vatsal@gmail.com",
+  "password": "vatshi",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e67fddb7ebb6a3f69b5f44"
+  },
+  "name": "Madhvi",
+  "email": "madhvi@gmail.com",
+  "password": "mamu",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ea9c79aa094560f8c782ed"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "admin123",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec39f55caf700484e97eee"
+  },
+  "name": "harsj",
+  "email": "harsh@gmail.com",
+  "password": "1234",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7c486082c2b4704a09d83"
+  },
+  "name": "Nancy ",
+  "email": "nancy@gmail.com",
+  "password": "nancy123",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f8e7037f8f7257be4644c5"
+  },
+  "name": "roshni",
+  "email": "roshni@gmail.com",
+  "password": "roshni07",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f8f6957f8f7257be464514"
+  },
+  "name": "tisha",
+  "email": "tisha@gmail.com",
+  "password": "tishuu24",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fa2fc0eeba6b274fd8ad3f"
+  },
+  "name": "vaish",
+  "email": "vaish@gmail.com",
+  "password": "vaish123",
+  "isAdmin": false,
+  "__v": 0
+}]

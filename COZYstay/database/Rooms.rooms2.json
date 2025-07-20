@@ -1,0 +1,527 @@
+[{
+  "_id": {
+    "$oid": "66b85ec651ab04b36af17103"
+  },
+  "name": "OYO Flagship Metro International",
+  "imgURLs": [
+    "/Images/1728454586062.jpg",
+    "/Images/1728454586066.jpg",
+    "/Images/1728454586069.jpg"
+  ],
+  "rentPerDay": 2000,
+  "type": "Delux",
+  "maxcount": 4,
+  "phoneNumber": 7890123456,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66f8d50438506ad034e33444"
+      },
+      "fromDate": "18-09-2024",
+      "toDate": "20-09-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66fd78f58f30b5104af2dbbd"
+      },
+      "fromDate": "20-11-2024",
+      "toDate": "21-11-2024",
+      "userId": "66fd78868f30b5104af2db9c",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66fd7a8f8f30b5104af2dbfb"
+      },
+      "fromDate": "24-10-2024",
+      "toDate": "25-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66fe19dfcbf0af65eb945fba"
+      },
+      "fromDate": "16-10-2024",
+      "toDate": "18-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "670a0cf6309ccc669fcbbc3f"
+      },
+      "fromDate": "04-11-2024",
+      "toDate": "05-11-2024",
+      "userId": "670a0c6d309ccc669fcbbc26",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "670a211cf0b0a758253c0827"
+      },
+      "fromDate": "11-11-2024",
+      "toDate": "12-11-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "OYO Flagship is very impressive for family and couple to stay.and it's full Furnished and AC.",
+  "__v": 6,
+  "updatedAt": {
+    "$date": "2024-10-12T07:11:24.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d1a348eed107fe9a16c0f2"
+  },
+  "name": "Ocean Breeze Hotel",
+  "imgURLs": [
+    "/Images/1728545675292.jpg",
+    "/Images/1728545675293.jpg",
+    "/Images/1728545675294.jpg"
+  ],
+  "rentPerDay": 2400,
+  "type": "Delux",
+  "maxcount": 5,
+  "phoneNumber": 3210987654,
+  "currentBookings": [],
+  "description": "Ocean Breeze Hotel offers a refreshing stay with beautiful sea views.",
+  "__v": 8,
+  "updatedAt": {
+    "$date": "2024-10-10T07:34:35.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f23"
+  },
+  "name": "Hotel Sunshine Residency",
+  "imgURLs": [
+    "/Images/1728545597337.jpg",
+    "/Images/1728545597344.jpg",
+    "/Images/1728545597365.jpg"
+  ],
+  "rentPerDay": 1800,
+  "type": "Delux",
+  "maxcount": 3,
+  "phoneNumber": 9876543210,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "670a1f7bf0b0a758253c081e"
+      },
+      "fromDate": "15-10-2024",
+      "toDate": "17-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "Hotel Sunshine Residency offers comfortable and modern accommodations in the heart of the city.",
+  "updatedAt": {
+    "$date": "2024-10-12T07:04:27.258Z"
+  },
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f24"
+  },
+  "name": "The Grand Palace Hotel",
+  "imgURLs": [
+    "/Images/1727888339906.jpg",
+    "/Images/1727888340119.jpg",
+    "/Images/1727888340313.jpg"
+  ],
+  "rentPerDay": 2500,
+  "type": "Executive",
+  "maxcount": 5,
+  "phoneNumber": 8765432109,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66d976b932b2188284154f8f"
+      },
+      "fromDate": "09-09-2024",
+      "toDate": "10-09-2024",
+      "userId": "66c19407ad833e8fe8355446",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "670a0d35309ccc669fcbbc4b"
+      },
+      "fromDate": "10-11-2024",
+      "toDate": "11-11-2024",
+      "userId": "670a0c6d309ccc669fcbbc26",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "670b6feb18ba8371be6ed36b"
+      },
+      "fromDate": "25-11-2024",
+      "toDate": "27-11-2024",
+      "userId": "66c1949dad833e8fe835544a",
+      "status": "Booked"
+    }
+  ],
+  "description": "The Grand Palace Hotel is a luxurious property with spacious rooms and top-notch amenities.",
+  "__v": 3,
+  "updatedAt": {
+    "$date": "2024-10-13T06:59:55.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f25"
+  },
+  "name": "Comfort Inn Suites",
+  "imgURLs": [
+    "/Images/1727888156051.jpg",
+    "/Images/1727888156068.jpg",
+    "/Images/1727888156071.jpg"
+  ],
+  "rentPerDay": 1600,
+  "type": "Delux",
+  "maxcount": 4,
+  "phoneNumber": 7654321098,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66d978d432b2188284154fb5"
+      },
+      "fromDate": "21-10-2024",
+      "toDate": "22-10-2024",
+      "userId": "66d9789632b2188284154faa",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66dae6b2708eabd55a66cf1f"
+      },
+      "fromDate": "25-09-2024",
+      "toDate": "26-09-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66fd7b3c8f30b5104af2dc19"
+      },
+      "fromDate": "23-10-2024",
+      "toDate": "25-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "Comfort Inn Suites provides cozy and affordable accommodations for travelers.",
+  "__v": 3,
+  "updatedAt": {
+    "$date": "2024-10-02T16:56:28.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f27"
+  },
+  "name": "Greenwood Resort",
+  "imgURLs": [
+    "/Images/1727583809307.jpg",
+    "/Images/1727583809308.jpg",
+    "/Images/1727583809309.jpg"
+  ],
+  "rentPerDay": 2800,
+  "type": "Executive",
+  "maxcount": 6,
+  "phoneNumber": 5432109876,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66fd78d88f30b5104af2dba5"
+      },
+      "fromDate": "23-10-2024",
+      "toDate": "18-11-2024",
+      "userId": "66fd78868f30b5104af2db9c",
+      "status": "Booked"
+    }
+  ],
+  "description": "Greenwood Resort is a serene retreat with lush gardens and elegant accommodations.",
+  "__v": 7,
+  "updatedAt": {
+    "$date": "2024-10-03T04:13:32.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f28"
+  },
+  "name": "Royal Heritage Hotel",
+  "imgURLs": [
+    "/Images/1728714535484.jpg",
+    "/Images/1728714535534.jpg",
+    "/Images/1728714535535.jpg"
+  ],
+  "rentPerDay": 3000,
+  "type": "Suite",
+  "maxcount": 4,
+  "phoneNumber": 4321098765,
+  "currentBookings": [],
+  "description": "Royal Heritage Hotel is a blend of traditional elegance and modern comfort.",
+  "updatedAt": {
+    "$date": "2024-10-12T06:28:55.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f29"
+  },
+  "name": "Royal hotel",
+  "imgURLs": [
+    "/Images/1727928761650.jpg",
+    "/Images/1727928761652.jpg",
+    "/Images/1727928761661.jpg"
+  ],
+  "rentPerDay": 1200,
+  "type": "Delux",
+  "maxcount": 5,
+  "phoneNumber": 3210987654,
+  "currentBookings": [],
+  "description": "Ocean Breeze Hotel offers a refreshing stay with beautiful sea views.",
+  "updatedAt": {
+    "$date": "2024-10-03T04:12:41.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f2a"
+  },
+  "name": "Mountain Retreat",
+  "imgURLs": [
+    "/Images/1727668824137.jpg",
+    "/Images/1727668824158.jpg",
+    "/Images/1727668824161.jpg"
+  ],
+  "rentPerDay": 2600,
+  "type": "Executive",
+  "maxcount": 4,
+  "phoneNumber": 2109876543,
+  "currentBookings": [],
+  "description": "Mountain Retreat is a perfect getaway with panoramic views of the mountains.",
+  "updatedAt": {
+    "$date": "2024-09-30T04:02:19.662Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f2b"
+  },
+  "name": "City Central Hotel",
+  "imgURLs": [
+    "./Images/r91.jpg",
+    "./Images/r92.jpg",
+    "./Images/r93.jpg"
+  ],
+  "rentPerDay": 2000,
+  "type": "Delux",
+  "maxcount": 9,
+  "phoneNumber": 1098765432,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66dae82d708eabd55a66cf29"
+      },
+      "fromDate": "27-10-2024",
+      "toDate": "28-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "City Central Hotel is conveniently located for easy access to city attractions.",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2024-09-13T08:42:58.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f6a25dc8591d6d42f39479"
+  },
+  "name": "Forest Haven Resort",
+  "maxcount": 5,
+  "phoneNumber": 7654321345,
+  "rentPerDay": 2298,
+  "imgURLs": [
+    "/Images/1728714010174.jpg",
+    "/Images/1728714010181.jpg",
+    "/Images/1728714010209.jpg"
+  ],
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66fd790a8f30b5104af2dbc7"
+      },
+      "fromDate": "25-11-2024",
+      "toDate": "26-11-2024",
+      "userId": "66fd78868f30b5104af2db9c",
+      "status": "Booked"
+    }
+  ],
+  "type": "delux",
+  "description": "Forest Haven Resort is nestled amidst nature, offering a tranquil escape.",
+  "createdAt": {
+    "$date": "2024-09-27T12:17:33.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T06:20:10.237Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66fd7c908f30b5104af2dc3d"
+  },
+  "name": "Royal hotel",
+  "maxcount": 3,
+  "phoneNumber": 8976543210,
+  "rentPerDay": 3000,
+  "imgURLs": [
+    "/Images/1727888528289.jpg",
+    "/Images/1727888528290.jpg",
+    "/Images/1727888528290.jpg"
+  ],
+  "currentBookings": [],
+  "type": "suite",
+  "description": "this is feels like royal residency.you can confortabe with it.",
+  "createdAt": {
+    "$date": "2024-10-02T17:02:08.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T17:02:08.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a10c0f0b0a758253c07dd"
+  },
+  "name": "Sunset Bay Hotel",
+  "maxcount": 4,
+  "phoneNumber": 8765431234,
+  "rentPerDay": 2700,
+  "imgURLs": [
+    "/Images/1728712896435.jpg",
+    "/Images/1728712896454.jpg",
+    "/Images/1728712896500.jpg"
+  ],
+  "currentBookings": [],
+  "type": "Suite",
+  "description": "Sunset Bay Hotel offers breathtaking ocean views and luxurious accommodations.",
+  "createdAt": {
+    "$date": "2024-10-12T06:01:36.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T06:01:36.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba3297546deaba5db2b2e"
+  },
+  "name": "Peak View Resort",
+  "maxcount": 5,
+  "phoneNumber": 4321091678,
+  "rentPerDay": 3200,
+  "imgURLs": [
+    "/Images/1728815913601.jpg",
+    "/Images/1728815913605.jpg",
+    "/Images/1728815913606.jpg"
+  ],
+  "currentBookings": [],
+  "type": "Suite",
+  "description": "Peak View Resort provides luxurious stays with spectacular mountain vistas.",
+  "createdAt": {
+    "$date": "2024-10-13T10:38:33.737Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T10:38:33.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba3977546deaba5db2b34"
+  },
+  "name": "Riverside Lodge",
+  "maxcount": 4,
+  "phoneNumber": 5432101567,
+  "rentPerDay": 1800,
+  "imgURLs": [
+    "/Images/1728816023723.jpg",
+    "/Images/1728816023724.jpg",
+    "/Images/1728816023725.jpg"
+  ],
+  "currentBookings": [],
+  "type": "Delux",
+  "description": "Riverside Lodge offers a serene atmosphere with scenic river views.",
+  "createdAt": {
+    "$date": "2024-10-13T10:40:23.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T10:40:23.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba4017546deaba5db2b3a"
+  },
+  "name": "Urban Heights Hotel",
+  "maxcount": 3,
+  "phoneNumber": 6543211456,
+  "rentPerDay": 2000,
+  "imgURLs": [
+    "/Images/1728816129183.jpg",
+    "/Images/1728816129184.jpg",
+    "/Images/1728816129185.jpg"
+  ],
+  "currentBookings": [],
+  "type": "Executive",
+  "description": "Urban Heights Hotel provides modern and comfortable stays in the heart of the city.",
+  "createdAt": {
+    "$date": "2024-10-13T10:42:09.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T10:42:09.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba5527546deaba5db2b42"
+  },
+  "name": "Blissful Meadows Resort",
+  "maxcount": 5,
+  "phoneNumber": 9876543120,
+  "rentPerDay": 3400,
+  "imgURLs": [
+    "/Images/1728816466856.jpg",
+    "/Images/1728816466857.jpg",
+    "/Images/1728816466858.jpg"
+  ],
+  "currentBookings": [],
+  "type": "Suite",
+  "description": "Blissful Meadows Resort offers a luxurious escape amidst peaceful meadows and gardens.",
+  "createdAt": {
+    "$date": "2024-10-13T10:47:46.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T10:47:46.883Z"
+  },
+  "__v": 0
+}]

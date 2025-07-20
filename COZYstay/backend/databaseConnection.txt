@@ -1,0 +1,136 @@
+# MongoDB Database Setup for This Project
+
+This guide explains how to create a MongoDB database and connect it to this MERN stack project.
+
+---
+
+##  Step 1: Create a MongoDB Database
+
+You can use either **MongoDB Atlas (Cloud)** or **MongoDB Local**.
+
+---
+
+###  Option A: MongoDB Atlas (Recommended)
+
+1. Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+2. Create an account (free)
+3. Create a new **Cluster** (choose free tier)
+4. Go to **Database → Collections → Create Database**
+   - Database Name: `your_db_name`
+   - Collection Name: `users` (or any name)
+
+5. Go to **Database Access** and create a new user with password
+
+6. Go to **Network Access → Add IP Address → Allow All (0.0.0.0/0)**
+
+7. Copy your connection string:
+
+
+
+###### i use option B for my project
+---
+
+### Option B: MongoDB Local (If using on your PC)
+
+1. Install MongoDB: https://www.mongodb.com/try/download/community
+2. Start MongoDB:
+   ```bash
+   mongod
+
+
+########## in db.js you can set your MongoDB url by creating database.##########
+MONGO_URI=your_mongodb_connection_string
+PORT=5000
+
+
+######### database connection #######
+
+ MongoDB Database Setup Guide for COZYstay Hotel Booking System
+
+ Database Name: Rooms
+
+This project uses MongoDB as the database for storing room booking system data. Follow the below guide to understand the database structure and how to set it up.
+
+----------------------------------------------------
+ Step 1: MongoDB Connection
+----------------------------------------------------
+1. Make sure MongoDB is installed locally OR use MongoDB Atlas.
+2. Replace the following line in `.env` file with your MongoDB URI:
+
+   MONGO_URI=mongodb://localhost:27017/Rooms
+
+3. The connection is established in the file:
+   backend/db.js
+
+4. Run the backend server:
+   npm install
+   npm run start
+
+----------------------------------------------------
+### Collections (like Tables)
+----------------------------------------------------
+
+1.  USERS Collection:
+   - Stores user information.
+   - Fields:
+     - name: String
+     - email: String
+     - phone: String
+
+   Example:
+   {
+     "name": "Alice",
+     "email": "alice@example.com",
+     "phone": "1234567890"
+   }
+
+---
+
+2.  ROOMS Collection:
+   - Stores room information available in the hotel.
+   - Fields:
+     - roomNumber: String
+     - type: String (Deluxe, Standard, Suite)
+     - price: Number (per night)
+     - isAvailable: Boolean
+
+   Example:
+   {
+     "roomNumber": "101",
+     "type": "Deluxe",
+     "price": 1500,
+     "isAvailable": true
+   }
+
+---
+
+3.  BOOKINGS Collection:
+   - Stores booking details for users and rooms.
+   - Fields:
+     - userId: ObjectId (references Users)
+     - roomId: ObjectId (references Rooms)
+     - checkIn: Date
+     - checkOut: Date
+
+   Example:
+   {
+     "userId": "60ab123456...",
+     "roomId": "60ac123456...",
+     "checkIn": "2025-07-05",
+     "checkOut": "2025-07-10"
+   }
+
+----------------------------------------------------
+Notes:
+----------------------------------------------------
+- All ObjectIds in bookings are references to users and rooms.
+- Use MongoDB Compass to visually manage the data.
+- You can import sample data from JSON files located in:
+  `COZYstay/database/`
+
+----------------------------------------------------
+ You're all set! Now your team or users can understand and recreate the database easily.
+
+
+
+#########in this project all images i included in image folder ############

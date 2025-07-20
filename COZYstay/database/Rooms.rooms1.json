@@ -1,0 +1,296 @@
+[{
+  "_id": {
+    "$oid": "66b85ec651ab04b36af17103"
+  },
+  "name": "OYO Flagship Metro International",
+  "imgURLs": [
+    "https://t4.ftcdn.net/jpg/03/54/76/61/240_F_354766130_Z8ABBsPrJCJ9mJdrLSt28PNxhEht03GP.jpg",
+    "https://t4.ftcdn.net/jpg/03/54/76/61/240_F_354766130_Z8ABBsPrJCJ9mJdrLSt28PNxhEht03GP.jpg",
+    "https://t4.ftcdn.net/jpg/03/54/76/61/240_F_354766130_Z8ABBsPrJCJ9mJdrLSt28PNxhEht03GP.jpg"
+  ],
+  "rentPerDay": 2000,
+  "type": "Delux",
+  "maxcount": 4,
+  "phoneNumber": {
+    "$numberLong": "7890123456"
+  },
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66f8d50438506ad034e33444"
+      },
+      "fromDate": "18-09-2024",
+      "toDate": "20-09-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "OYO Flagship is very impressive for family and couple to stay.and it's full Furnished and AC.",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2024-09-29T04:18:12.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d1a348eed107fe9a16c0f2"
+  },
+  "name": "Ocean Breeze Hotel",
+  "imgURLs": [
+    "https://img.freepik.com/free-photo/unfocused-view-tidy-bedroom_1203-1468.jpg?t=st=1725014508~exp=1725018108~hmac=f243a979158acd833407ea01383c7054f59e35fef45c7fb35a6a01d1f8db458d&w=826",
+    "https://images//example23.jpg",
+    "https://images//example24.jpg"
+  ],
+  "rentPerDay": 2400,
+  "type": "Delux",
+  "maxcount": 5,
+  "phoneNumber": {
+    "$numberLong": "3210987654"
+  },
+  "currentBookings": [],
+  "description": "Ocean Breeze Hotel offers a refreshing stay with beautiful sea views.",
+  "__v": 6,
+  "updatedAt": {
+    "$date": "2024-09-05T09:14:43.156Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f23"
+  },
+  "name": "Hotel Sunshine Residency",
+  "imgURLs": [
+    "/Images/1727507051813.jpg",
+    "/Images/1727507051815.jpg",
+    "/Images/1727507051818.jpg"
+  ],
+  "rentPerDay": 1800,
+  "type": "Delux",
+  "maxcount": 3,
+  "phoneNumber": 9876543210,
+  "currentBookings": [],
+  "description": "Hotel Sunshine Residency offers comfortable and modern accommodations in the heart of the city.",
+  "updatedAt": {
+    "$date": "2024-09-30T04:59:11.169Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f24"
+  },
+  "name": "The Grand Palace Hotel",
+  "imgURLs": [
+    "/Images/1727506944390.jpg"
+  ],
+  "rentPerDay": 2500,
+  "type": "Executive",
+  "maxcount": 5,
+  "phoneNumber": 8765432109,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66d976b932b2188284154f8f"
+      },
+      "fromDate": "09-09-2024",
+      "toDate": "10-09-2024",
+      "userId": "66c19407ad833e8fe8355446",
+      "status": "Booked"
+    }
+  ],
+  "description": "The Grand Palace Hotel is a luxurious property with spacious rooms and top-notch amenities.",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2024-09-28T07:02:24.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f25"
+  },
+  "name": "Comfort Inn Suites",
+  "imgURLs": [
+    "./Images/r31.jpg",
+    "./Images/r32.jpg",
+    "./Images/r33.jpg"
+  ],
+  "rentPerDay": 1600,
+  "type": "Delux",
+  "maxcount": 4,
+  "phoneNumber": {
+    "$numberLong": "7654321098"
+  },
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66d978d432b2188284154fb5"
+      },
+      "fromDate": "21-10-2024",
+      "toDate": "22-10-2024",
+      "userId": "66d9789632b2188284154faa",
+      "status": "Booked"
+    },
+    {
+      "bookingId": {
+        "$oid": "66dae6b2708eabd55a66cf1f"
+      },
+      "fromDate": "25-09-2024",
+      "toDate": "26-09-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "Comfort Inn Suites provides cozy and affordable accommodations for travelers.",
+  "__v": 2,
+  "updatedAt": {
+    "$date": "2024-09-06T11:25:39.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f27"
+  },
+  "name": "Greenwood Resort",
+  "imgURLs": [
+    "/Images/1727583809307.jpg",
+    "/Images/1727583809308.jpg",
+    "/Images/1727583809309.jpg"
+  ],
+  "rentPerDay": 2800,
+  "type": "Executive",
+  "maxcount": 6,
+  "phoneNumber": 5432109876,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66f8d66a38506ad034e33488"
+      },
+      "fromDate": "15-09-2024",
+      "toDate": "19-09-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "Greenwood Resort is a serene retreat with lush gardens and elegant accommodations.",
+  "__v": 3,
+  "updatedAt": {
+    "$date": "2024-09-29T04:24:10.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f28"
+  },
+  "name": "Royal Heritage Hotel",
+  "imgURLs": [
+    "./Images/r61.jpg",
+    "./Images/r62.jpg",
+    "./Images/r63.jpg"
+  ],
+  "rentPerDay": 3000,
+  "type": "Suite",
+  "maxcount": 4,
+  "phoneNumber": {
+    "$numberLong": "4321098765"
+  },
+  "currentBookings": [],
+  "description": "Royal Heritage Hotel is a blend of traditional elegance and modern comfort."
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f29"
+  },
+  "name": "Royal hotel",
+  "imgURLs": [
+    "./Images/r71.jpg",
+    "./Images/r72.jpg",
+    "./Images/r73.jpg"
+  ],
+  "rentPerDay": 1200,
+  "type": "Delux",
+  "maxcount": 5,
+  "phoneNumber": {
+    "$numberLong": "3210987654"
+  },
+  "currentBookings": [],
+  "description": "Ocean Breeze Hotel offers a refreshing stay with beautiful sea views.",
+  "updatedAt": {
+    "$date": "2024-09-12T15:25:39.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f2a"
+  },
+  "name": "Mountain Retreat",
+  "imgURLs": [
+    "/Images/1727668824137.jpg",
+    "/Images/1727668824158.jpg",
+    "/Images/1727668824161.jpg"
+  ],
+  "rentPerDay": 2600,
+  "type": "Executive",
+  "maxcount": 4,
+  "phoneNumber": 2109876543,
+  "currentBookings": [],
+  "description": "Mountain Retreat is a perfect getaway with panoramic views of the mountains.",
+  "updatedAt": {
+    "$date": "2024-09-30T04:02:19.662Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66d833bbb82ddc31427f5f2b"
+  },
+  "name": "City Central Hotel",
+  "imgURLs": [
+    "./Images/r91.jpg",
+    "./Images/r92.jpg",
+    "./Images/r93.jpg"
+  ],
+  "rentPerDay": 2000,
+  "type": "Delux",
+  "maxcount": 9,
+  "phoneNumber": 1098765432,
+  "currentBookings": [
+    {
+      "bookingId": {
+        "$oid": "66dae82d708eabd55a66cf29"
+      },
+      "fromDate": "27-10-2024",
+      "toDate": "28-10-2024",
+      "userId": "66c07bcce7c4c5f74f30c333",
+      "status": "Booked"
+    }
+  ],
+  "description": "City Central Hotel is conveniently located for easy access to city attractions.",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2024-09-13T08:42:58.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f6a25dc8591d6d42f39479"
+  },
+  "name": "PRACHI ROOM",
+  "maxcount": 5,
+  "phoneNumber": 581729804,
+  "rentPerDay": 1300,
+  "imgURLs": [
+    "/Images/1727583706086.jpg",
+    "/Images/1727583706149.jpg",
+    "/Images/1727583706161.jpg"
+  ],
+  "currentBookings": [],
+  "type": "delux",
+  "description": "this is best for user to  stay",
+  "createdAt": {
+    "$date": "2024-09-27T12:17:33.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-29T04:21:46.194Z"
+  },
+  "__v": 0
+}]

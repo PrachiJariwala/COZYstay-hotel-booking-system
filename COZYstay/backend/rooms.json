@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Hotel Sunshine Residency",
+    "imgURLs": ["./Images/r11.jpg", "./Images/r12.jpg", "./Images/r13.jpg"],
+    "rentPerDay": 1800,
+    "type": "Delux",
+    "maxcount": 3,
+    "phoneNumber": 9876543210,
+    "currentBookings": [],
+    "description": "Hotel Sunshine Residency offers comfortable and modern accommodations in the heart of the city."
+  },
+  {
+    "name": "The Grand Palace Hotel",
+    "imgURLs": ["./Images/r21.jpg", "./Images/r22.jpg", "./Images/r23.jpg"],
+    "rentPerDay": 2500,
+    "type": "Executive",
+    "maxcount": 5,
+    "phoneNumber": 8765432109,
+    "currentBookings": [],
+    "description": "The Grand Palace Hotel is a luxurious property with spacious rooms and top-notch amenities."
+  },
+  {
+    "name": "Comfort Inn Suites",
+    "imgURLs": ["./Images/r31.jpg", "./Images/r32.jpg", "./Images/r33.jpg"],
+    "rentPerDay": 1600,
+    "type": "Delux",
+    "maxcount": 4,
+    "phoneNumber": 7654321098,
+    "currentBookings": [],
+    "description": "Comfort Inn Suites provides cozy and affordable accommodations for travelers."
+  },
+  {
+    "name": "City View Hotel",
+    "imgURLs": ["./Images/r41.jpg", "./Images/r42.jpg", "./Images/r43.jpg"],
+    "rentPerDay": 2200,
+    "type": "Suite",
+    "maxcount": 4,
+    "phoneNumber": 6543210987,
+    "currentBookings": [],
+    "description": "City View Hotel offers stunning views of the city skyline with modern amenities."
+  },
+  {
+    "name": "Greenwood Resort",
+    "imgURLs": ["./Images/r51.jpg", "./Images/r52.jpg", "./Images/r53.jpg"],
+    "rentPerDay": 2800,
+    "type": "Executive",
+    "maxcount": 6,
+    "phoneNumber": 5432109876,
+    "currentBookings": [],
+    "description": "Greenwood Resort is a serene retreat with lush gardens and elegant accommodations."
+  },
+  {
+    "name": "Royal Heritage Hotel",
+    "imgURLs": ["./Images/r61.jpg", "./Images/r62.jpg", "./Images/r63.jpg"],
+    "rentPerDay": 3000,
+    "type": "Suite",
+    "maxcount": 4,
+    "phoneNumber": 4321098765,
+    "currentBookings": [],
+    "description": "Royal Heritage Hotel is a blend of traditional elegance and modern comfort."
+  },
+  {
+    "name": "Ocean Breeze Hotel",
+    "imgURLs": ["./Images/r71.jpg", "./Images/r72.jpg", "./Images/r73.jpg"],
+    "rentPerDay": 2400,
+    "type": "Delux",
+    "maxcount": 5,
+    "phoneNumber": 3210987654,
+    "currentBookings": [],
+    "description": "Ocean Breeze Hotel offers a refreshing stay with beautiful sea views."
+  },
+  {
+    "name": "Mountain Retreat",
+    "imgURLs": ["./Images/r81.jpg", "./Images/r82.jpg", "./Images/r83.jpg"],
+    "rentPerDay": 2600,
+    "type": "Executive",
+    "maxcount": 4,
+    "phoneNumber": 2109876543,
+    "currentBookings": [],
+    "description": "Mountain Retreat is a perfect getaway with panoramic views of the mountains."
+  },
+  {
+    "name": "City Central Hotel",
+    "imgURLs": ["./Images/r91.jpg", "./Images/r92.jpg", "./Images/r93.jpg"],
+    "rentPerDay": 2000,
+    "type": "Delux",
+    "maxcount": 3,
+    "phoneNumber": 1098765432,
+    "currentBookings": [],
+    "description": "City Central Hotel is conveniently located for easy access to city attractions."
+  },
+  {
+    "name": "Lakeside Inn",
+    "imgURLs": ["./Images/r101.jpg", "./Images/r102.jpg", "./Images/r103.jpg"],
+    "rentPerDay": 1900,
+    "type": "Delux",
+    "maxcount": 3,
+    "phoneNumber": 9087654321,
+    "currentBookings": [],
+    "description": "Lakeside Inn offers a peaceful stay with picturesque views of the lake."
+  },
+  {
+    "name": "Sunset Bay Hotel",
+    "imgURLs": ["./Images/r111.jpg", "./Images/r112.jpg", "./Images/r113.jpg"],
+    "rentPerDay": 2700,
+    "type": "Suite",
+    "maxcount": 4,
+    "phoneNumber": 8765431234,
+    "currentBookings": [],
+    "description": "Sunset Bay Hotel offers breathtaking ocean views and luxurious accommodations."
+  },
+  {
+    "name": "Forest Haven Resort",
+    "imgURLs": ["./Images/r121.jpg", "./Images/r122.jpg", "./Images/r123.jpg"],
+    "rentPerDay": 2300,
+    "type": "Delux",
+    "maxcount": 5,
+    "phoneNumber": 7654321345,
+    "currentBookings": [],
+    "description": "Forest Haven Resort is nestled amidst nature, offering a tranquil escape."
+  },
+  {
+    "name": "Urban Heights Hotel",
+    "imgURLs": ["./Images/r131.jpg", "./Images/r132.jpg", "./Images/r133.jpg"],
+    "rentPerDay": 2000,
+    "type": "Executive",
+    "maxcount": 3,
+    "phoneNumber": 6543211456,
+    "currentBookings": [],
+    "description": "Urban Heights Hotel provides modern and comfortable stays in the heart of the city."
+  },
+  {
+    "name": "Riverside Lodge",
+    "imgURLs": ["./Images/r141.jpg", "./Images/r142.jpg", "./Images/r143.jpg"],
+    "rentPerDay": 1800,
+    "type": "Delux",
+    "maxcount": 4,
+    "phoneNumber": 5432101567,
+    "currentBookings": [],
+    "description": "Riverside Lodge offers a serene atmosphere with scenic river views."
+  },
+  {
+    "name": "Peak View Resort",
+    "imgURLs": ["./Images/r151.jpg", "./Images/r152.jpg", "./Images/r153.jpg"],
+    "rentPerDay": 3200,
+    "type": "Suite",
+    "maxcount": 5,
+    "phoneNumber": 4321091678,
+    "currentBookings": [],
+    "description": "Peak View Resort provides luxurious stays with spectacular mountain vistas."
+  }
+]
